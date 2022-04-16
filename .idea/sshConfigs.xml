@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="snode6.swangeese.fun" id="9a0b265d-449e-4983-a540-db45238d4624" keyPath="C:\Users\sjf\.ssh\id_ed25519" port="22" nameFormat="DESCRIPTIVE" username="acsacom" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

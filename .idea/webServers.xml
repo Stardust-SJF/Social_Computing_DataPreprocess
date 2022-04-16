@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9911123d-5e3e-4685-ab40-05d194941a91" name="Social Computing">
+        <fileTransfer accessType="SFTP" host="snode6.swangeese.fun" port="22" sshConfigId="9a0b265d-449e-4983-a540-db45238d4624" sshConfig="acsacom@snode6.swangeese.fun:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
